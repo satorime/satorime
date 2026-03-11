@@ -72,8 +72,7 @@ My journey and experience in technology and software engineering.
 # 📚 Publications
 
 ## MoodleQuest: Gamified Engagement for Asynchronous Learning  
-📍 12th International Conference on Education and Training Technologies  
-📅 2026  
+📍 12th International Conference on Education and Training Technologies 2026  
 
 A gamified companion system designed to improve student participation in asynchronous Moodle courses. Combines quests, experience points (XP), badges, leaderboards, and virtual pets with real-time analytics.
 
@@ -83,8 +82,7 @@ Built with **Next.js + FastAPI** and integrated securely with Moodle via SSO whi
 
 ## Uncertainty-Aware Temporal Transformer Modeling with Masked Self-Attention and Missingness Encoding for Early Sepsis Risk Stratification from ICU Time-Series Data
 
-📍 26th Philippine Computing Science Congress 
-📅 2026  
+📍 26th Philippine Computing Science Congress 2026  
 
 An advanced deep learning framework for early **sepsis detection** using **Transformer neural networks**.
 
