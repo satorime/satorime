@@ -6,8 +6,27 @@
 I create efficient web experiences tailored to real business needs.  
 Based in **Cebu City, Philippines 🇵🇭** and open to freelance work in web development, automation, and custom software projects.
 
-🌐 **Portfolio**  
-https://satoribrixdev.netlify.app/
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/brix-bitayo-b2358a334/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:brix.bitayo@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://satoribrixdev.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 </div>
 
@@ -108,28 +127,6 @@ Designed to improve **clinical decision reliability in ICU settings**.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/brix-bitayo-b2358a334/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:brix.bitayo@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://satoribrixdev.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
