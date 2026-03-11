@@ -1,14 +1,12 @@
 <div align="center">
 
-# { } Software
-
 # BRIX BITAYO
 ### FULL STACK DEVELOPER • SOFTWARE ENGINEER
 
 I create efficient web experiences tailored to real business needs.  
 Based in **Cebu City, Philippines 🇵🇭** and open to freelance work in web development, automation, and custom software projects.
 
- **Portfolio:** [https://yourportfolio.com ](https://satoribrixdev.netlify.app/) 
+ **Portfolio:** [Portfolio](https://satoribrixdev.netlify.app/) 
 
 </div>
 
