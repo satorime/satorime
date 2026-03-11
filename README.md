@@ -83,7 +83,7 @@ Built with **Next.js + FastAPI** and integrated securely with Moodle via SSO whi
 
 ## Uncertainty-Aware Temporal Transformer Modeling with Masked Self-Attention and Missingness Encoding for Early Sepsis Risk Stratification from ICU Time-Series Data
 
-📍 26th Philippine Computing Science Congress & 12th ICETT  
+📍 26th Philippine Computing Science Congress 
 📅 2026  
 
 An advanced deep learning framework for early **sepsis detection** using **Transformer neural networks**.
