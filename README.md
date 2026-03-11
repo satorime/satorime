@@ -4,7 +4,7 @@
 ### FULL STACK DEVELOPER • SOFTWARE ENGINEER
 
 I create efficient web experiences tailored to real business needs.  
-Based in **Cebu City, Philippines 🇵🇭** and open to freelance work in web development, automation, and custom software projects.
+Based in **Cebu City, Philippines** and open to freelance work in web development, automation, and custom software projects.
 
 ---
 
