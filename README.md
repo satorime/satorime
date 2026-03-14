@@ -119,7 +119,7 @@ Designed to improve **clinical decision reliability in ICU settings**.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://satoribrixdev.netlify.app/">
+<a href="https://brixdev.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
